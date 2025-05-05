@@ -1,0 +1,269 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "about": "About Us",
+    "language": "Language",
+    "soon": "Soon",
+    "viewProfile": "View Profile",
+    "bookAConsultation": "Book a consultation",
+    "submit": "Submit"
+  },
+  "header": {
+    "home": "Home",
+    "aboutus": "About Us",
+    "lawfrim": "Law Frim",
+    "services": "Services",
+    "community": "Community",
+    "contactus": "Contact Us"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "description": "Stay up to date with the latest legal developments and practical advice from Qatar’s leading lawyers by subscribing to the newsletter.",
+    "enterYourEmail": "Enter your email",
+    "emailSubmittedSuccessfully": "Email submitted successfully"
+  },
+  "whychooseus": {
+    "title": "Why choose",
+    "description": "naseh application is the ideal solution for your legal consultations in qatar, as we provide innovative legal services to meet your needs in a flexible and reliable manner."
+  },
+  "whychoosecard": {
+    "title": "Here is the title of the feature or service in the",
+    "description": "Pioneering The First Qatari Online Legal Consultation Platform With The Largest Network Of Verified Lawyers Tailored To Your Every Needs."
+  },
+  "footercontactlinks": {
+    "getintouch": "Get in touch",
+    "letstalk": "Let's Talk",
+    "crnumber": "CR Number",
+    "location": "Location"
+  },
+  "footeraboutlinks": {
+    "about": "About",
+    "aboutus": "About Us",
+    "blog": "Blog",
+    "lawyers": "Lawyers",
+    "services": "Services",
+    "community": "Community"
+  },
+  "footersupportlinks": {
+    "support": "Support",
+    "contactus": "Contact Us",
+    "onlinechat": "Online Chat",
+    "whatsapp": "Whatsapp"
+  },
+  "footerlegallinks": {
+    "legal": "Legal Links",
+    "privacypolicy": "Privacy Policy",
+    "termsandconditions": "Terms and Conditions",
+    "cookiepolicy": "Cookie Policy"
+  },
+  "footerpara": {
+    "footerstayup": "Stay Up To Date With The Latest Legal Developments And Practical Advice From Qatar’s Leading Lawyers By Subscribing To The Newsletter."
+  },
+  "footerreserved": {
+    "footerreservedpara": "All Rights Reserved @ XXXXXXXX 2022"
+  },
+  "home": {
+    "title": "Home Page",
+    "description": "This is the home page"
+  },
+  "buttons": {
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "banner": {
+    "consult": {
+      "urgent": "Urgent consultation now !",
+      "urgentDesc": "book it in 5 minutes a lawyer will respond to you in few minutes",
+      "chooseFilter": "Choose & filter & schedule",
+      "chooseFilterDesc": "Easy access to your legal advice. Choose, sort, and clearly define  the font that fits your schedule.",
+      "consultNow": "CONSULT NOW",
+      "consultationBookedSuccessfully": "Consultation booked successfully"
+    },
+    "services": {
+      "service1": {
+        "title": "Reliable Legal Services",
+        "description": "naseh platform provides legal advice approved by lawyers registered with the qatari ministry of justice."
+      },
+      "service2": {
+        "title": "Diversity of services",
+        "description": "naseh offers a wide range of legal services that meet the needs of individuals and companies."
+      },
+      "service3": {
+        "title": "Security & confidentiality",
+        "description": "naseh ensures the protection of users' data and legal information through advanced security systems."
+      },
+      "service4": {
+        "title": "Easy Electronic Payment",
+        "description": "safe and convenient payment options, ensuring transactions are completed easily and comfortably."
+      }
+    }
+  },
+  "consultationOptions": {
+    "date": {
+      "label": "Consultation date",
+      "placeholder": "Select date"
+    },
+    "time": {
+      "label": "Consultation time",
+      "placeholder": "Select time"
+    },
+    "language": {
+      "label": "Consultation language",
+      "placeholder": "Select language"
+    },
+    "experience": {
+      "label": "Years of experience",
+      "placeholder": "Select experience"
+    }
+  },
+  "services": {
+    "heading": "Services",
+    "description": "A wide range of legal services",
+    "viewAllServices": "View All Services",
+    "servicesData": {
+      "scheduledConsultations": {
+        "title": "Scheduled Consultations",
+        "description": "Naseh Application Is An Integrated Solution For Providing Legal Services Remotely, Through",
+        "buttonText": "Book a consultation"
+      },
+      "urgentConsultation": {
+        "title": "Urgent Consultation",
+        "description": "Naseh Application Is An Integrated Solution For Providing Legal Services Remotely, Through",
+        "buttonText": "Consult Now"
+      },
+      "corporatePortal": {
+        "title": "Corporate Portal",
+        "description": "The Corporate Portal Service Or An Open Monthly Subscription Can Be Offered With The...",
+        "comingSoon": "Coming Soon"
+      },
+      "writtenConsultation": {
+        "title": "Written Consultation",
+        "description": "Naseh Application Is An Integrated Solution For Providing Legal Services Remotely, Through",
+        "comingSoon": "Coming Soon"
+      },
+      "contractsAgreements": {
+        "title": "Contracts & Agreements",
+        "description": "Naseh Application Is An Integrated Solution For Providing Legal Services Remotely, Through",
+        "comingSoon": "Coming Soon"
+      },
+      "hireALawyer": {
+        "title": "Hire A Lawyer",
+        "description": "Naseh Application Is An Integrated Solution For Providing Legal Services Remotely, Through",
+        "comingSoon": "Coming Soon"
+      }
+    }
+  },
+  "lawfirm": {
+    "heading": "Lawfirm",
+    "description": "Specialized lawyers around the clock",
+    "yearsOfExperience": "Years of Experience",
+    "spokenLanguage": "Spoken Language",
+    "lawyersData": {
+      "dawiLawFirm": {
+        "firmName": "Dawi Law Firm",
+        "description": "I Provide Specialized Legal Consultations In The Field Of Companies.",
+        "yearsExperience": "10-15 years",
+        "spokenLanguages": "Arabic & English"
+      },
+      "salehForLaw": {
+        "firmName": "Saleh For Law",
+        "description": "I Provide Specialized Legal Consultations In The Field Of Companies.",
+        "yearsExperience": "10-15 years",
+        "spokenLanguages": "Arabic & English"
+      },
+      "alAnsariLawFirm": {
+        "firmName": "Al Ansari Law Firm",
+        "description": "I Provide Specialized Legal Consultations In The Field Of Companies.",
+        "yearsExperience": "10-15 years",
+        "spokenLanguages": "Arabic & English"
+      },
+      "dunneLawPllc": {
+        "firmName": "Dunne Law Pllc",
+        "description": "I Provide Specialized Legal Consultations In The Field Of Companies.",
+        "yearsExperience": "10-15 years",
+        "spokenLanguages": "Arabic & English"
+      }
+    }
+  },
+  "joinNow": {
+    "heading": "Join As A Lawyer",
+    "title": "Join as a Lawyer",
+    "description": "are you a licensed lawyer looking to expand your legal services? Join naseh, Qatar's first legal platform, and offer exceptional legal consultations to clients across the country with ease and convenience.",
+    "expandCustomer": "Expand your customer network",
+    "flexibleConsultation": "Flexible consultation options",
+    "controlYourSchedule": "Control your schedule",
+    "secureFastPayments": "Secure and fast payments",
+    "joinNow": "Join Now"
+  },
+  "community": {
+    "heading": "Community",
+    "description": "Naseh Legal Blog",
+    "viewAllBlogs": "View All Blogs",
+    "blogsData": {
+      "blog1": {
+        "title": "Avoiding Trouble: Common Legal Mistakes to Keep Away",
+        "date": "June 25, 2024",
+        "category": "Legal Consultations",
+        "description": "In Qatar, as in any country, it is important for its citizens and expatriates to follow the local laws and regulations to avoid legal problems."
+      },
+      "blog2": {
+        "title": "Understanding Legal Rights in Qatar",
+        "date": "July 10, 2024",
+        "category": "Legal Advice",
+        "description": "A guide to understanding your legal rights as a resident or citizen in Qatar."
+      },
+      "blog3": {
+        "title": "The Role of Legal Advisors in Business",
+        "date": "August 5, 2024",
+        "category": "Business Law",
+        "description": "How legal advisors help businesses navigate the complex legal landscape."
+      }
+    }
+  },
+  "faq": {
+    "heading": "FAQ",
+    "description": "Frequently Asked Questions",
+    "faqData": {
+      "q1": {
+        "title": "What services does Naseh offer?",
+        "description": "Naseh offers a comprehensive range of legal services including legal consultations, document management, case tracking, and direct communication with qualified lawyers. Our platform provides both scheduled and urgent consultation options, along with specialized services for corporate clients."
+      },
+      "q2": {
+        "title": "Is there a fee to use?",
+        "description": "Basic access to Naseh is free. However, specific services such as lawyer consultations and document processing may incur fees. All fees are clearly displayed before you commit to any service, ensuring complete transparency."
+      },
+      "q3": {
+        "title": "Can I track the progress of my legal case through Naseh?",
+        "description": "Yes, Naseh provides real-time case tracking features. You can monitor updates, view document status, track consultation history, and receive notifications about important developments in your case through our secure platform."
+      },
+      "q4": {
+        "title": "What types of legal issues can Naseh help with?",
+        "description": "Naseh supports a wide range of legal matters including corporate law, civil cases, contract review, employment law, and general legal consultations. Our network of specialized lawyers covers various legal domains to meet your specific needs."
+      },
+      "q5": {
+        "title": "Can I upload and manage legal documents on Naseh?",
+        "description": "Yes, Naseh provides secure document management features. You can upload, store, and organize your legal documents in our encrypted platform, share them with your lawyer, and track document versions and status updates."
+      },
+      "q6": {
+        "title": "How can I find a lawyer using Naseh?",
+        "description": "You can easily find a lawyer through our platform by browsing profiles, filtering by specialization, reading reviews, and checking availability. Our matching system also helps connect you with lawyers best suited to your specific legal needs."
+      },
+      "q7": {
+        "title": "How can I schedule a consultation with a lawyer?",
+        "description": "Scheduling a consultation is simple through our platform. You can book either urgent or scheduled consultations, choose your preferred time slot, and receive immediate confirmation. The process can be completed in just a few clicks."
+      },
+      "q8": {
+        "title": "Is Naseh available 24/7?",
+        "description": "Yes, our platform is accessible 24/7 for document management and information access. For lawyer consultations, availability varies based on individual schedules, but our urgent consultation service ensures you can get legal help when needed."
+      },
+      "q9": {
+        "title": "How secure is my information on Naseh?",
+        "description": "We implement enterprise-grade security measures to protect your data. This includes end-to-end encryption, secure data storage, regular security audits, and strict access controls to ensure your legal information remains confidential."
+      },
+      "q10": {
+        "title": "How do I contact customer support if I have issues with the app?",
+        "description": "Our customer support team is available through multiple channels including in-app chat, email, and phone support. We provide 24/7 technical assistance and aim to resolve all queries within 24 hours."
+      }
+    }
+  }
+}

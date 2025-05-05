@@ -1,0 +1,26 @@
+#root {
+  min-height: 100vh;
+  width: 100vw;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.swiper-pagination {
+  position: relative !important;
+  margin-top: 65px;
+  .swiper-pagination-bullet {
+    background-color: #b58b00;
+    width: 10px;
+    height: 10px;
+  }
+  .swiper-pagination-bullet-active {
+    background-color: #f5f5f5;
+    outline: 2px solid #b58b00;
+  }
+}
